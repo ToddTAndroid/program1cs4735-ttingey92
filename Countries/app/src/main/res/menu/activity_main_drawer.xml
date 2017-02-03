@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_africa"
+            android:title="Africa" />
+        <item
+            android:id="@+id/nav_asia"
+            android:title="Asia" />
+        <item
+            android:id="@+id/nav_europe"
+            android:title="Europe" />
+        <item
+            android:id="@+id/nav_nAmerica"
+            android:title="North America" />
+        <item
+            android:id="@+id/nav_oceania"
+            android:title="Oceania" />
+        <item
+            android:id="@+id/nav_sAmerica"
+            android:title="South America" />
+        <item
+            android:id="@+id/nav_antartica"
+            android:title="Antartica" />
+    </group>
+
+</menu>
