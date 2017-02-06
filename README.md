@@ -1,6 +1,10 @@
+
 # Program # 1
 Name:  Todd Tingey
 Cosc 4010
+
+Graded 50/50
+
 
 Description:  
 
